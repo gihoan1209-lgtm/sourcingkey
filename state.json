@@ -1,0 +1,415 @@
+{
+  "cookies": [
+    {
+      "name": "inquiry_preference",
+      "value": "webIM",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tracknick",
+      "value": "",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "taklid",
+      "value": "3939432897294e899e5b39eea2e7353b",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__mwb_logon_id__",
+      "value": "tapeoff",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lid",
+      "value": "tapeoff",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ali_apache_track",
+      "value": "c_mid=b2b-356946445659018|c_lid=tapeoff|c_ms=1|c_mt=1",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mwb",
+      "value": "tm",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cna",
+      "value": "ks5BH2RYpysCAbbRs3RjuqtN",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookie2",
+      "value": "132a2fa80d5c1589a8c72a4b25139cee",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "t",
+      "value": "704f3db3809852b75374b97676c4fd50",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tb_token_",
+      "value": "77e8f73ebb8ab",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookie1",
+      "value": "AHmDerKhFSLuxQAyr5OFk1RE3hQp6Cz8ZP6I2pVXIDc%3D",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookie17",
+      "value": "UNX9bLB64w4oSQ%3D%3D",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sgcookie",
+      "value": "E100ZwTj4tScSm4PzfxBvbyBQE0bRVstpsKRx4h%2BlyyfUwMWoMcI246hguUllXD0GEvkCuk437OYMJjOSpWCdcUnFVyyh5NmUNNALK7U409sW0w%3D",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sg",
+      "value": "f6f",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csg",
+      "value": "dc60f87a",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "unb",
+      "value": "3569464456",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uc4",
+      "value": "id4=0%40UgJ4wkACxLPCIvnjAuF5oj%2FD9qgA&nk4=0%40FY0DkflO8EudLu%2BZFRphfTaG",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nk_",
+      "value": "tapeoff",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cn_logon__",
+      "value": "true",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cn_logon_id__",
+      "value": "tapeoff",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_identity",
+      "value": "buyer",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "callClientScheme",
+      "value": "ali1688im%3Asendmsg",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "plugin_home_downLoad_cookie",
+      "value": "%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B6",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "leftMenuLastMode",
+      "value": "COLLAPSE",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xlly_s",
+      "value": "1",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "leftMenuModeTip",
+      "value": "shown",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_csrf_token",
+      "value": "1775615683195",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oversearegion",
+      "value": "CN",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "overseaRegionName",
+      "value": "%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oversealanguage",
+      "value": "zh",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "overseacurrency",
+      "value": "KRW",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "keywordsHistory",
+      "value": "%E6%BC%82%E4%BA%AE%E7%9A%84%E5%AE%A2%E5%8E%85%E6%8B%96%E9%9E%8B%3B%E6%BC%82%E4%BA%AE%E7%9A%84%E5%AE%A2%E5%8E%85%E9%9E%8B%3B%E5%AE%A4%E5%86%85%E6%8B%96%E9%9E%8B%3B%E5%9B%9B%E5%AD%A3%E5%AE%A2%E5%8E%85%E6%8B%96%E9%9E%8B",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_m_h5_c",
+      "value": "fe3d54fa0a7a6cf536695a2c96a25a9a_1775633478510%3B108b4d9621937c7a8d187ea70a003923",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "alicnweb",
+      "value": "touch_tb_at%3D1775626277161%7Clastlogonid%3Dtapeoff",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mtop_partitioned_detect",
+      "value": "1",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_m_h5_tk",
+      "value": "b11ae7db7cb909cc156d6bef4acd09bf_1775637358050",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_m_h5_tk_enc",
+      "value": "770c73414cd7707ddbdf2761700e5a6a",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isg",
+      "value": "BCYmjP20c2SU-SivoK_rVcchd5yoB2rBF9SgrRDPEskkk8ateJe60Qxg65cfO2LZ",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tfstk",
+      "value": "gRio7Dj-j4z7Oj52j6rWkbNXJTLxFuZIYXIL9kFeuSPXFYUKLo74F8zE2uH-iBcKLWFzzJWV3SHE2zkJPJSnKbv7v7EP-pcqCzJ7w7I3LvPjJkER2mVngjh3RLNLTWcKL4pvXhHSFkZExCK9X9NZZdouT6EUVoyXYW39XhHSUkZe6CKtyGKrxSFUYzzFutPbLkyzzXP4uRyOakrETKf4dRyULzze0oPbLkPETkJm3Sw3YWlUYKDqNjIUsDoj0CkdNl3EItmaEzVZUSlK9myl65kziMSUZ84knYPcYMomlaQp8781HWZ8NxwoOhs74y0spJckqglnCmG03f-hX7kjBVUS4h_QSoFb72zDU3k0q74iqPX1ku0END4Sr99s3ulj55aylIwm2cU31rf2axH0aP0nwIsUwVDqiPnAMGEIG2lUKj5l4D_V75XlA-JKmw_Qz-w06FEk-bZ4chqpnKb6PzybeCpDnw_Qz-wJ6Kvc56azh8dO.",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_user_vitals_session_data_",
+      "value": "{\"user_line_track\":true,\"ul_session_id\":\"oyp2no7bmmj\",\"last_page_id\":\"www.1688.com%2F5jpx4s63s4a\"}",
+      "domain": ".1688.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

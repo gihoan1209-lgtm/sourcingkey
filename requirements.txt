@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+deep-translator
+playwright
+beautifulsoup4
