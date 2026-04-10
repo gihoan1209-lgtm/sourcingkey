@@ -16,6 +16,7 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [total, setTotal] = useState(0);
   const [searched, setSearched] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   async function doSearch(searchKeyword: string) {
     if (!searchKeyword.trim()) return;
@@ -71,11 +72,22 @@ export default function Home() {
         onModeChange={setMode}
         onKeywordSelect={handleKeywordSelect}
         selectedKeyword={selectedKeyword}
+        isOpen={sidebarOpen}
+        onClose={() => setSidebarOpen(false)}
       />
 
-      <main className="flex-1 overflow-y-auto p-6">
+      <main className="flex-1 overflow-y-auto p-4 md:p-6">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-3xl font-bold mb-6">🛍️ 소싱에이전트</h1>
+          {/* 모바일 헤더 */}
+          <div className="flex items-center gap-3 mb-4">
+            <button
+              onClick={() => setSidebarOpen(true)}
+              className="lg:hidden p-2 rounded-lg hover:bg-gray-200 text-xl"
+            >
+              ☰
+            </button>
+            <h1 className="text-2xl md:text-3xl font-bold">🛍️ 소싱에이전트</h1>
+          </div>
 
           <SearchBar
             value={keyword}
@@ -84,7 +96,7 @@ export default function Home() {
             loading={loading}
           />
 
-          <hr className="my-6 border-gray-200" />
+          <hr className="my-4 md:my-6 border-gray-200" />
 
           {loading && (
             <div className="flex justify-center items-center py-20">
