@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src=no --import-alias=\"@/*\" --use-npm)",
+      "Bash(npm run:*)",
+      "Bash(rm -f app.py scraper.py translator.py login_helper.py requirements.txt state.json debug.html dump.html aliexpress_debug.html)",
+      "Bash(rm -rf __pycache__)",
+      "Bash(cp -r funtastic-sourcing-next/* funtastic-sourcing-next/.* .)",
+      "Bash(rm -rf funtastic-sourcing-next)",
+      "Bash(shopt -s dotglob)",
+      "Bash(mv funtastic-sourcing-next/* .)",
+      "Bash(rmdir funtastic-sourcing-next:*)"
+    ]
+  }
+}
