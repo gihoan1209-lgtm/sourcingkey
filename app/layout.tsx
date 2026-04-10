@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "펀타 소싱에이전트",
+  title: "소싱에이전트",
   description: "네이버 쇼핑 상품 검색 소싱 도구",
 };
 
