@@ -75,7 +75,7 @@ export default function Home() {
 
       <main className="flex-1 overflow-y-auto p-6">
         <div className="max-w-6xl mx-auto">
-          <h1 className="text-3xl font-bold mb-6">🛍️ 펀타 소싱에이전트</h1>
+          <h1 className="text-3xl font-bold mb-6">🛍️ 소싱에이전트</h1>
 
           <SearchBar
             value={keyword}
